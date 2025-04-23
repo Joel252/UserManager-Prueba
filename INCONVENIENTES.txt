@@ -1,0 +1,7 @@
+Quisiera compartir este mensaje para explicar las razones por las cuales, lamentablemente, no he podido cumplir con el ejercicio de la manera que yo esperaba.
+
+Me concentré principalmente en el código, lo que me llevó a omitir la contenerización previa del proyecto, lo cual hubiera facilitado su ejecución. Además, no incluí previamente la documentación para su ejecución, lo que conllevo a subir de último momento una documentación poco clara para su implementación por las prisas en el tiempo.
+
+Por otro lado, cometí el error de subir el proyecto a la rama master en lugar de a main, debido a los nervios.
+
+Lamento sinceramente estos inconvenientes y me disculpo por el estado actual del proyecto.
